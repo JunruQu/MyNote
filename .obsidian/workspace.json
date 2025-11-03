@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analog_IC/模拟IC设计简介.md",
+                "file": "Analog_IC/1_模拟IC设计简介.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "模拟IC设计简介"
+              "title": "1_模拟IC设计简介"
             }
           }
         ]
@@ -181,11 +181,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "862fb812da5db52b",
+  "active": "04f8a10ad854e644",
   "lastOpenFiles": [
+    "Analog_IC/2_器件物理模型.md",
+    "Analog_IC/1_模拟IC设计简介.md",
     "Analog_IC/Pictures/example2_MEMS_accelerometer.png",
     "Analog_IC/Pictures/example1_A_RF_transceiver_for_mobile_Phone.png",
-    "Analog_IC/模拟IC设计简介.md",
     "Analog_IC/Pictures/why_analog_design.png",
     "README.md",
     "Analog_IC/Pictures/important_analog_modules.png",

@@ -1,0 +1,61 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": "#8c56ed",
+    "recentlyUsedIcons": [
+      "LiAlertCircle",
+      "LiAlbum",
+      "LiAtSign",
+      "LiAccessibility",
+      "LiAtom"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".",
+        "icon": "LiFileCode",
+        "for": "everything",
+        "order": 0
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "custom",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Analog_IC": {
+    "iconName": "LiAppWindow",
+    "iconColor": "#f2f52e"
+  },
+  "Device_Physics": {
+    "iconName": "LiAtom",
+    "iconColor": "#f2f52e"
+  },
+  "Scholar Tips": {
+    "iconName": "LiAccessibility",
+    "iconColor": "#f2f52e"
+  },
+  "TACD_Sentaurus": {
+    "iconName": "LiAtSign",
+    "iconColor": "#f2f52e"
+  },
+  "Analog_IC/Pictures": "LiAlbum"
+}
