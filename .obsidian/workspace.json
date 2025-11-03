@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f4554344897a7e48",
+        "id": "9a2ca1ec48febca6",
         "type": "tabs",
         "children": [
           {
-            "id": "982f8d5153fb2929",
+            "id": "04f8a10ad854e644",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HELLO.md",
+                "file": "Analog_IC/模拟IC设计简介.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HELLO"
+              "title": "模拟IC设计简介"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "right": {
     "id": "6677a3e3dbf976be",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HELLO.md",
+                "file": "Analog_IC/模拟IC设计简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "HELLO 的反向链接列表"
+              "title": "模拟IC设计简介 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HELLO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "HELLO 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -142,20 +141,33 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HELLO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HELLO 的大纲"
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "ecb35057b6736cdc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 317.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,11 +181,32 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "982f8d5153fb2929",
+  "active": "862fb812da5db52b",
   "lastOpenFiles": [
+    "Analog_IC/Pictures/example2_MEMS_accelerometer.png",
+    "Analog_IC/Pictures/example1_A_RF_transceiver_for_mobile_Phone.png",
+    "Analog_IC/模拟IC设计简介.md",
+    "Analog_IC/Pictures/why_analog_design.png",
+    "README.md",
+    "Analog_IC/Pictures/important_analog_modules.png",
+    "Analog_IC/Pictures/Why_analog_design.png",
+    "Analog_IC/Pictures/Example2_MEMS_Accelerometer.png",
+    "Analog_IC/Pictures/Example1_A_RF_transceiver_for_mobile_Phone.png",
+    "Analog_IC/Pictures/what_you_can_do_in_IC_industry.png",
+    "Analog_IC/Pictures/IC_production_flow.png",
+    "未命名",
+    "Analog_IC/Pictures",
+    "Pasted image 20251103103849.png",
+    "Scholar Tips",
+    "TACD_Sentaurus",
+    "Device_Physics",
+    "Analog_IC",
+    "HELLO.md",
+    "2025-11-02.md",
+    "README.en.md",
+    "未命名.base",
     "未命名.md",
     "backup.bat",
-    "backup.sh",
-    "HELLO.md"
+    "backup.sh"
   ]
 }

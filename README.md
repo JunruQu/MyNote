@@ -1,39 +1,13 @@
 # note
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+此仓库是曲军儒的个人笔记存档，使用git托管在Gitee平台。
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 架构
+***Analog IC*** 此笔记是学习西安电子科技大学张鸿教授的[模拟CMOS集成电路设计_XJTU_张鸿教授](https://www.bilibili.com/video/BV1SK4y1N7wN/?spm_id_from=333.337.search-card.all.click&vd_source=440c1c249bb0c457fb86d40f9e9895eb)的笔记。包含PPT截图。辅助教科书为拉扎维《CMOS模拟集成电路设计》。
+***Device Physics*** 此笔记记录半导体器件与物理的重点，主要参考书籍为陶元教授的《现代VLSI器件基础》。
+***Scholar Tips*** 此笔记记录本人在科研训练过程中的心得体会，包含论文修改、会议报告、半导体常见术语解释等。
+***TCAD Sentaurus*** 此笔记是自学TCAD Sentaurus的笔记，主要参考[TCAD Sentaurus Tutorial](https://ghzphy.github.io/Sentaurus_Training/)。
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+***Markdown语法*** 参考教程：Markdown官方教程[Markdown 基本语法 | Markdown 教程](https://markdown.com.cn/basic-syntax/)，菜鸟教程的Markdown教程[Markdown 教程 | 菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html) 
