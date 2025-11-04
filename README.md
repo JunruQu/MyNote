@@ -1,7 +1,7 @@
 # note
 
 #### 介绍
-此仓库是曲军儒的个人笔记存档，使用git托管在Gitee平台。
+此仓库是曲军儒的个人笔记存档，使用git托管在GitHub平台。
 
 #### 架构
 ***Analog IC*** 此笔记是学习西安电子科技大学张鸿教授的[模拟CMOS集成电路设计_XJTU_张鸿教授](https://www.bilibili.com/video/BV1SK4y1N7wN/?spm_id_from=333.337.search-card.all.click&vd_source=440c1c249bb0c457fb86d40f9e9895eb)的笔记。包含PPT截图。辅助教科书为拉扎维《CMOS模拟集成电路设计》。
