@@ -57,5 +57,8 @@
     "iconName": "LiAtSign",
     "iconColor": "#f2f52e"
   },
-  "Analog_IC/Pictures": "LiAlbum"
+  "Analog_IC/Pictures": {
+    "iconName": "LiAlbum",
+    "iconColor": "#24bdff"
+  }
 }

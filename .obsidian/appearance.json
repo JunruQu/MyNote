@@ -1,4 +1,6 @@
 {
   "monospaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Arial"
+  "textFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "",
+  "baseFontSize": 18
 }
