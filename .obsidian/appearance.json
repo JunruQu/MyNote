@@ -2,5 +2,6 @@
   "monospaceFontFamily": "Cascadia Code",
   "textFontFamily": "Cascadia Mono",
   "interfaceFontFamily": "",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "theme": "moonstone"
 }
