@@ -1,7 +1,11 @@
 {
   "monospaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Mono",
+  "textFontFamily": "Adobe Song Std",
   "interfaceFontFamily": "",
-  "baseFontSize": 18,
-  "theme": "moonstone"
+  "baseFontSize": 20,
+  "theme": "moonstone",
+  "cssTheme": "",
+  "nativeMenus": true,
+  "accentColor": "",
+  "baseFontSizeAction": false
 }
