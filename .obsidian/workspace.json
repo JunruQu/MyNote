@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f2925f9483131e",
+        "id": "57ad3951e6628bf7",
         "type": "tabs",
         "children": [
           {
-            "id": "31bcfc5efe043687",
+            "id": "9ffad0c3665df8f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analog_IC/2_器件物理模型.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2_器件物理模型"
+              "title": "新标签页"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analog_IC/2_器件物理模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2_器件物理模型 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -176,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,11 +190,11 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "31bcfc5efe043687",
+  "active": "9ffad0c3665df8f3",
   "lastOpenFiles": [
+    "Analog_IC/2_器件物理模型.md",
     "Analog_IC/1_模拟IC设计简介.md",
     "Analog_IC/3_单级放大器.md",
-    "Analog_IC/2_器件物理模型.md",
     "README.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2025-11-11 15.19.45.excalidraw.md",
