@@ -1,11 +1,10 @@
 {
+  "cssTheme": "Things",
+  "textFontFamily": "Adobe 宋体 Std",
   "monospaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Adobe Song Std",
-  "interfaceFontFamily": "",
   "baseFontSize": 20,
-  "theme": "moonstone",
-  "cssTheme": "",
-  "nativeMenus": true,
   "accentColor": "",
-  "baseFontSizeAction": false
+  "theme": "system",
+  "interfaceFontFamily": "",
+  "nativeMenus": true
 }

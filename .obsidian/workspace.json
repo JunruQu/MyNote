@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "060353bf5f81e8db",
+    "id": "38b69a3424434579",
     "type": "split",
     "children": [
       {
-        "id": "57ad3951e6628bf7",
+        "id": "bdc791618606dcdf",
         "type": "tabs",
         "children": [
           {
-            "id": "9ffad0c3665df8f3",
+            "id": "6cb6568e8ca8cd97",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analog_IC/3_单级放大器.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3_单级放大器"
+              "title": "新标签页"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "25a84aa97e3308c0",
+    "id": "e9bda35963709a35",
     "type": "split",
     "children": [
       {
-        "id": "a6d508acd5cb0f0d",
+        "id": "e26f18f7828e6508",
         "type": "tabs",
         "children": [
           {
-            "id": "862fb812da5db52b",
+            "id": "0a32b6081ef5d8f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "056c7493e9324da5",
+            "id": "f14359b65ece908d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "cb9b57d8c82589a8",
+            "id": "3a63e2152f4ca71f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 300
   },
   "right": {
-    "id": "6677a3e3dbf976be",
+    "id": "6450dc82fe297c5c",
     "type": "split",
     "children": [
       {
-        "id": "59d2715b84eabd9b",
+        "id": "f1b867b0b69a10c6",
         "type": "tabs",
         "children": [
           {
-            "id": "80d202331765d1c7",
+            "id": "e22c37606a4b65c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analog_IC/2_器件物理模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2_器件物理模型 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "5075737fde26d10b",
+            "id": "b77a604421628a70",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analog_IC/2_器件物理模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2_器件物理模型 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "e604d73001c43a90",
+            "id": "57ef71a3f216c5c2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,21 +131,7 @@
             }
           },
           {
-            "id": "48cd8bcc9bb32ade",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "大纲"
-            }
-          },
-          {
-            "id": "ecb35057b6736cdc",
+            "id": "b4f1b264d59b116f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,7 +145,21 @@
             }
           },
           {
-            "id": "38d5c5c4d18db601",
+            "id": "6fd91085c274a5bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "3ebedef0ceb3ddc7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,52 +173,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9ffad0c3665df8f3",
+  "active": "6cb6568e8ca8cd97",
   "lastOpenFiles": [
     "Analog_IC/2_器件物理模型.md",
-    "Analog_IC/1_模拟IC设计简介.md",
     "Analog_IC/3_单级放大器.md",
-    "README.md",
-    "未命名.canvas",
-    "Excalidraw/Drawing 2025-11-11 15.19.45.excalidraw.md",
-    "HELLO.md",
-    "Excalidraw",
-    "Analog_IC/Pictures/whole_small_signal_model.png",
+    "Analog_IC/1_模拟IC设计简介.md",
     "Analog_IC/Pictures/CGS_CGD_VGS.png",
-    "Analog_IC/Pictures/example2_MEMS_accelerometer.png",
-    "Analog_IC/Pictures/example1_A_RF_transceiver_for_mobile_Phone.png",
-    "Analog_IC/Pictures/why_analog_design.png",
-    "Analog_IC/Pictures/important_analog_modules.png",
-    "Analog_IC/Pictures/Why_analog_design.png",
-    "Analog_IC/Pictures/Example2_MEMS_Accelerometer.png",
-    "Analog_IC/Pictures/Example1_A_RF_transceiver_for_mobile_Phone.png",
-    "Analog_IC/Pictures/what_you_can_do_in_IC_industry.png",
-    "未命名",
-    "Analog_IC/Pictures",
-    "Scholar Tips",
-    "TACD_Sentaurus",
-    "Device_Physics",
-    "Analog_IC",
-    "2025-11-02.md",
-    "README.en.md",
-    "未命名.base",
-    "未命名.md",
-    "backup.bat",
-    "backup.sh"
+    "README.md",
+    "HELLO.md"
   ]
 }
