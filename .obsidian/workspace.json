@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bdc791618606dcdf",
+        "id": "68fa974de329a0bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb6568e8ca8cd97",
+            "id": "a5226f5eae89f296",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Analog_IC/3_单级放大器.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "3_单级放大器"
             }
           }
         ]
@@ -173,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +193,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6cb6568e8ca8cd97",
+  "active": "a5226f5eae89f296",
   "lastOpenFiles": [
-    "Analog_IC/2_器件物理模型.md",
     "Analog_IC/3_单级放大器.md",
+    "Analog_IC/2_器件物理模型.md",
     "Analog_IC/1_模拟IC设计简介.md",
     "Analog_IC/Pictures/CGS_CGD_VGS.png",
     "README.md",
