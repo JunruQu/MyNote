@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "6450dc82fe297c5c",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Analog_IC/3_单级放大器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "3_单级放大器 的反向链接列表"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Analog_IC/3_单级放大器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "3_单级放大器 的出链列表"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Analog_IC/3_单级放大器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "3_单级放大器 的大纲"
             }
           },
           {
@@ -195,9 +198,13 @@
   },
   "active": "a5226f5eae89f296",
   "lastOpenFiles": [
-    "Analog_IC/3_单级放大器.md",
-    "Analog_IC/2_器件物理模型.md",
+    "Analog_IC/0_模拟电路基础.md",
     "Analog_IC/1_模拟IC设计简介.md",
+    "Analog_IC/2_器件物理模型.md",
+    "Analog_IC/3_单级放大器.md",
+    "Scholar Tips/会议报告注意事项.md",
+    "Scholar Tips/论文写作注意事项.md",
+    "Scholar Tips",
     "Analog_IC/Pictures/CGS_CGD_VGS.png",
     "README.md",
     "HELLO.md"
